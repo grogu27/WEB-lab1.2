@@ -1,0 +1,15 @@
+thead {
+    background-color: rgb(167, 165, 165);
+}
+
+caption{
+    font-style: italic;
+    font-weight: bold;
+}
+.country{
+    font-style: Arial;
+}
+
+.matter{
+    font-style: Courier New;
+}
